@@ -1,0 +1,34 @@
+colorrgba
+1.0 0.0 0.0 0.0
+triangleDefault
+-0.5 0.5 0.0
+ 0.5 0.5 0.0
+ 0.0 -0.5 0.0 
+quadratDefaultSide
+0.8
+ortho
+-1.0 1.0 1.33 -1.33
+end
+
+
+quadr
+
+ortho
+1.0 -1.0 1.0 -1.0
+
+
+
+quadratDefaultLeftUpPos
+-0.5 0.5 0.0
+quadrDefaultSide
+1.0
+quadratDefault
+-0.5 0.5 0.0
+ 0.5 0.5 0.0
+ 0.5 -0.5 0.0
+-0.5 -0.5 0.0
+
+...
+
+trDef - Triangle Default
+end - end
